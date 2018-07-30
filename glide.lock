@@ -218,7 +218,7 @@ imports:
   - state
   - types
 - name: github.com/tendermint/tmlibs
-  version: 15e51fa76086a3c505f227679c2478043ae7261b
+  version: 91b4b534ad78e442192c8175db92a06a51064064
   subpackages:
   - common
   - db
